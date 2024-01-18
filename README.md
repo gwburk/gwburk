@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! I am a Biomedical Engineering student minoring in Computer Science at the University of Cincinnati.
 
 <!--
 **gwburk/gwburk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
